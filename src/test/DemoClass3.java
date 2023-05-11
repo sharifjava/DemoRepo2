@@ -6,6 +6,9 @@ public class DemoClass3 {
 		// TODO Auto-generated method stub
 
 		System.out.println("This first line is added by sharifarna");
+	
+		System.out.println("This second line is added by sharif0705");
+	
 	}
 
 }
